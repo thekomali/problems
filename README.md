@@ -1,2 +1,41 @@
-# problems
-A collection of competitive programming challenges
+<div align="center">
+  <h1> 🌳 Problems ⛺:</h1>
+</div>
+
+<h6>:sauropod: <a href="https://docs.google.com/spreadsheets/d/12RhVSTslhoTmQBS2GdamtBuyE6NlCEwYNQcIRXHaVoQ/edit?usp=sharing">REFERENCE</a></h6>
+
+<h6>:t-rex: NC250 | <a href="https://neetcode.io/practice/practice/neetcode250">:link:</a></h6>
+<ul>
+  <li>Array & Hashing</li>
+  <ol start="1">
+    <li><a href="">concatenation of string</a> ©️ 🐍</li>
+  </ol>
+  
+  <li>Two Pointers</li>
+  <li>Sliding Window</li>
+</ul>
+
+---
+
+```
+                              .--.
+                            /_.  ._\
+                           (( \\// ))
+                            \\ \/ //     Bazzinga!!!
+                             \\/\//
+                        \\\  ( '' )  ///
+                         )))  \__/  (((
+                        (((.'__||__'.)))
+                         \\  )    (  //
+                          \\/.'  '.\//
+                           \/ |,,| \/
+                              |  |
+                              |  |
+                              //\\
+                             //  \\
+                            ||    ||
+                            ||    ||
+                            ||    ||
+                         ___))    ((___
+                  \|/_  (____)    (____) _\|/__|_\|/____\|/_
+```
