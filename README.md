@@ -10,6 +10,7 @@
   <ol start="1">
     <li>E <a href="./nc250/array_nd_hashing/concatenation_of_array/">concatenation of array</a> ©️ 🐍</li>
     <li>E <a href="./nc250/array_nd_hashing/contains_duplicate/">contains duplicate</a> ©️ 🐍</li>
+    <li>E <a href="./nc250/array_nd_hashing/valid_anagram/">valid anagram</a> ©️ 🐍</li>
   </ol>
   
   <li>Two Pointers</li>
