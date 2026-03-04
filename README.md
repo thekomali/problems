@@ -8,7 +8,7 @@
 <ul>
   <li>Array & Hashing</li>
   <ol start="1">
-    <li><a href="https://leetcode.com/problems/concatenation-of-array/">E</a> | <a href="./nc250/array_nd_hashing/concatenation_of_array/">concatenation of array</a> ©️ 🐍</li>
+    <li>E <a href="./nc250/array_nd_hashing/concatenation_of_array/">concatenation of array</a> ©️ 🐍</li>
   </ol>
   
   <li>Two Pointers</li>
