@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🌳 Problems ⛺:</h1>
+  <h1> 🌳 Problems ⛺</h1>
 </div>
 
 <h6>:sauropod: <a href="https://docs.google.com/spreadsheets/d/12RhVSTslhoTmQBS2GdamtBuyE6NlCEwYNQcIRXHaVoQ/edit?usp=sharing">REFERENCE</a></h6>
@@ -9,6 +9,7 @@
   <li>Array & Hashing</li>
   <ol start="1">
     <li>E <a href="./nc250/array_nd_hashing/concatenation_of_array/">concatenation of array</a> ©️ 🐍</li>
+    <li>E <a href="./nc250/array_nd_hashing/contains_duplicate/">contains duplicate</a> ©️ 🐍</li>
   </ol>
   
   <li>Two Pointers</li>
