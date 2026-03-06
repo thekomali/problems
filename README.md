@@ -13,6 +13,7 @@
     <li>E <a href="./nc250/array_nd_hashing/valid_anagram/">valid anagram</a> ©️ 🐍</li>
     <li>E <a href="./nc250/array_nd_hashing/two_sum/">two sum</a> ©️ 🐍</li>
     <li>E <a href="./nc250/array_nd_hashing/longest_common_prefix/">longest common prefix</a> ©️ 🐍</li>
+    <li>E <a href="./nc250/array_nd_hashing/remove_element/">remove element</a> ©️ 🐍</li>
   </ol>
   
   <li>Two Pointers</li>
