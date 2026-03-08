@@ -21,7 +21,18 @@
   <li>Sliding Window</li>
 </ul>
 
+
 ---
+
+
+<h6>:t-rex: WC492 | <a href="https://leetcode.com/contest/weekly-contest-492/">:link:</a></h6>
+<ul>
+  <li>E <a href="./lc/minimum_capacity_box/">minimum capacity box</a> ©️</li>
+</ul>
+
+
+---
+
 
 ```
                               .--.
