@@ -16,6 +16,7 @@
     <li>E <a href="./nc250/array_nd_hashing/remove_element/">remove element</a> ©️ 🐍</li>
     <li>M <a href="./nc250/array_nd_hashing/group_anagram/">group anagrams</a> 🐍</li>
     <li>E <a href="./nc250/array_nd_hashing/majority_element/">majority elements</a> ©️ 🐍</li>
+    <li>M <a href="./nc250/array_nd_hashing/sort_color/">sort color</a> ©️</li>
   </ol>
   
   <li>Two Pointers</li>
