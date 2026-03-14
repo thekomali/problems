@@ -23,6 +23,7 @@
   <ol start="1">
     <li>E <a href="./nc250/two_pointers/reverse_string/">reverse string</a> ©️ 🐍</li>
     <li>E <a href="./nc250/two_pointers/valid_palindrome/">valid palindrome</a> ©️ 🐍</li>
+    <li>E <a href="./nc250/two_pointers/merge_strings_alternatively/">merge strings alternatively</a> ©️ 🐍</li>
 
   </ol>
 
