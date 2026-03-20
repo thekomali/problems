@@ -24,6 +24,7 @@
     <li>E <a href="./nc250/two_pointers/reverse_string/">reverse string</a> ©️ 🐍</li>
     <li>E <a href="./nc250/two_pointers/valid_palindrome/">valid palindrome</a> ©️ 🐍</li>
     <li>E <a href="./nc250/two_pointers/merge_strings_alternatively/">merge strings alternatively</a> ©️ 🐍</li>
+    <li>M <a href="./nc250/two_pointers/boats_to_save/">boats to save</a> ©️ 🐍</li>
 
   </ol>
 
