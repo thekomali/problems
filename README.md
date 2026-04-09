@@ -4,40 +4,8 @@
 
 <h6>:sauropod: <a href="https://docs.google.com/spreadsheets/d/12RhVSTslhoTmQBS2GdamtBuyE6NlCEwYNQcIRXHaVoQ/edit?usp=sharing">REFERENCE</a></h6>
 
-<h6>:t-rex: NC250 | <a href="https://neetcode.io/practice/practice/neetcode250">:link:</a></h6>
+<h6>:rooster: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">:link:</a></h6>
 <ul>
-  <li>Array & Hashing</li>
-  <ol start="1">
-    <li>E <a href="./nc250/array_nd_hashing/concatenation_of_array/">concatenation of array</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/contains_duplicate/">contains duplicate</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/valid_anagram/">valid anagram</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/two_sum/">two sum</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/longest_common_prefix/">longest common prefix</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/remove_element/">remove element</a> ©️ 🐍</li>
-    <li>M <a href="./nc250/array_nd_hashing/group_anagram/">group anagrams</a> 🐍</li>
-    <li>E <a href="./nc250/array_nd_hashing/majority_element/">majority elements</a> ©️ 🐍</li>
-    <li>M <a href="./nc250/array_nd_hashing/sort_color/">sort color</a> ©️</li>
-  </ol>
-  
-  <li>Two Pointers</li>
-  <ol start="1">
-    <li>E <a href="./nc250/two_pointers/reverse_string/">reverse string</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/two_pointers/valid_palindrome/">valid palindrome</a> ©️ 🐍</li>
-    <li>E <a href="./nc250/two_pointers/merge_strings_alternatively/">merge strings alternatively</a> ©️ 🐍</li>
-    <li>M <a href="./nc250/two_pointers/boats_to_save/">boats to save</a> ©️ 🐍</li>
-
-  </ol>
-
-  <li>Sliding Window</li>
-</ul>
-
-
----
-
-
-<h6>:t-rex: WC492 | <a href="https://leetcode.com/contest/weekly-contest-492/">:link:</a></h6>
-<ul>
-  <li>E <a href="./lc/minimum_capacity_box/">minimum capacity box</a> ©️</li>
 </ul>
 
 
@@ -45,24 +13,24 @@
 
 
 ```
-                              .--.
-                            /_.  ._\
-                           (( \\// ))
-                            \\ \/ //     Bazzinga!!!
-                             \\/\//
-                        \\\  ( '' )  ///
-                         )))  \__/  (((
-                        (((.'__||__'.)))
-                         \\  )    (  //
-                          \\/.'  '.\//
-                           \/ |,,| \/
-                              |  |
-                              |  |
-                              //\\
-                             //  \\
-                            ||    ||
-                            ||    ||
-                            ||    ||
-                         ___))    ((___
-                  \|/_  (____)    (____) _\|/__|_\|/____\|/_
+                          .--.
+                        /_.  ._\
+                        (( \\// ))
+                        \\ \/ //     Bazzinga!!!
+                          \\/\//
+                    \\\  ( '' )  ///
+                      )))  \__/  (((
+                    (((.'__||__'.)))
+                      \\  )    (  //
+                      \\/.'  '.\//
+                        \/ |,,| \/
+                          |  |
+                          |  |
+                          //\\
+                          //  \\
+                        ||    ||
+                        ||    ||
+                        ||    ||
+                      ___))    ((___
+              \|/_  (____)    (____) _\|/__|_\|/____\|/_
 ```
