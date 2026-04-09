@@ -10,6 +10,7 @@
   <li>E <a href="drills/ps/find_the_difference/">find the difference</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/index_of_first_occurrence_of_string/">find the index of the first occurrence in a string</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/valid_anagram/">valid anagram - I</a> :copyright: :snake:</li>
+  <li>E <a href="drills/ps/repeated_substring_pattern/">repeated substring pattern</a> :copyright: :snake:</li>
 </ul>
 
 
