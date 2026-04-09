@@ -12,6 +12,7 @@
   <li>E <a href="drills/ps/valid_anagram/">valid anagram - I</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/repeated_substring_pattern/">repeated substring pattern</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/move_zeros/">move zeros</a> :copyright: :snake:</li>
+  <li>E <a href="drills/ps/plus_one/">plus one</a> :copyright: :snake:</li>
 </ul>
 
 
