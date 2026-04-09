@@ -7,6 +7,7 @@
 <h6>:rooster: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">:link:</a></h6>
 <ul>
   <li>E <a href="drills/ps/merge_strings_alternatively/">merge strings alternatively</a> :copyright: :snake:</li>
+  <li>E <a href="drills/ps/find_the_difference/">find the difference</a> :copyright: :snake:</li>
 </ul>
 
 
