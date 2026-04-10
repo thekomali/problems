@@ -17,6 +17,7 @@
   <li>E <a href="drills/ps/reverse_linked_list/">reverse linked list</a> :copyright:</li>
   <li>M <a href="drills/ps/add_two_numbers/">add two numbers</a> :copyright:</li>
   <li>M <a href="drills/ps/add_two_numbers_2/">add two numbers II</a> :copyright:</li>
+  <li>E <a href="drills/ps/count_odd_no_in_intervel/">count odd numbers in an interval range</a> :copyright:</li>
 </ul>
 
 
