@@ -15,7 +15,8 @@
   <li>E <a href="drills/ps/plus_one/">plus one</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/merge_two_sorted_list/">merge two sorted list</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/reverse_linked_list/">reverse linked list</a> :copyright:</li>
-  <li>E <a href="drills/ps/add_two_numbers/">add two numbers</a> :copyright:</li>
+  <li>M <a href="drills/ps/add_two_numbers/">add two numbers</a> :copyright:</li>
+  <li>M <a href="drills/ps/add_two_numbers_2/">add two numbers II</a> :copyright:</li>
 </ul>
 
 
