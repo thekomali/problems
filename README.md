@@ -22,6 +22,8 @@
   <li>E <a href="drills/ps/lemonade_change/">lemonade change</a> :copyright:</li>
   <li>E <a href="drills/ps/largest_perimeter_triangle/">largest perimeter triangle</a> :copyright:</li>
   <li>E <a href="drills/ps/check_if_its_straight_line/">check if it is a stright line</a> :copyright:</li>
+  <li>E <a href="drills/ps/length_of_last_word/">length of last word</a> :copyright: :snake:</li>
+  <li>E <a href="drills/ps/to_lower/">to lower</a> :copyright:</li>
 </ul>
 
 
