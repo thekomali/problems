@@ -20,6 +20,7 @@
   <li>E <a href="drills/ps/count_odd_no_in_intervel/">count odd numbers in an interval range</a> :copyright:</li>
   <li>E <a href="drills/ps/avg_salary_excluding_min_max/">average salary excluding the minimum and maximum salary</a> :copyright:</li>
   <li>E <a href="drills/ps/lemonade_change/">lemonade change</a> :copyright:</li>
+  <li>E <a href="drills/ps/largest_perimeter_triangle/">largest perimeter triangle</a> :copyright:</li>
 </ul>
 
 
