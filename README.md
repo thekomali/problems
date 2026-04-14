@@ -24,6 +24,9 @@
   <li>E <a href="drills/ps/check_if_its_straight_line/">check if it is a stright line</a> :copyright:</li>
   <li>E <a href="drills/ps/length_of_last_word/">length of last word</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/to_lower/">to lower</a> :copyright:</li>
+  <li>E <a href="drills/ps/richest_customer_wealth/">richest customer wealth</a> :copyright: :snake:</li>
+  <li>E <a href="drills/ps/sign_of_product_of_array/">sign of product of array</a> :copyright:</li>
+  <li>E <a href="drills/ps/arithmetic_progression_from_sequence/">arithmetic progression from sequence</a> :copyright:</li>
 </ul>
 
 
@@ -31,24 +34,25 @@
 
 
 ```
-                          .--.
-                        /_.  ._\
-                        (( \\// ))
-                        \\ \/ //     Bazzinga!!!
-                          \\/\//
-                    \\\  ( '' )  ///
-                      )))  \__/  (((
-                    (((.'__||__'.)))
-                      \\  )    (  //
-                      \\/.'  '.\//
-                        \/ |,,| \/
-                          |  |
-                          |  |
-                          //\\
-                          //  \\
-                        ||    ||
-                        ||    ||
-                        ||    ||
-                      ___))    ((___
-              \|/_  (____)    (____) _\|/__|_\|/____\|/_
+                                |     |
+                                \\_V_//
+                                \/=|=\/
+                                 [=v=]        Bazzinga!!!
+                               __\___/_____
+                              /..[  _____  ]
+                             /_  [ [  M /] ]
+                            /../.[ [ M /@] ]
+                           <-->[_[ [M /@/] ]
+                          /../ [.[ [ /@/ ] ]
+     _________________]\ /__/  [_[ [/@/ C] ]
+    <_________________>>0---]  [=\ \@/ C / /
+       ___      ___   ]/000o   /__\ \ C / /
+          \    /              /....\ \_/ /
+       ....\||/....           [___/=\___/
+      .    .  .    .          [...] [...]
+     .      ..      .         [___/ \___]
+     .    0 .. 0    .         <---> <--->
+  /\/\.    .  .    ./\/\      [..]   [..]
+ / / / .../|  |\... \ \ \    _[__]   [__]_
+/ / /       \/       \ \ \  [____>   <____]
 ```
