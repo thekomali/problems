@@ -27,6 +27,7 @@
   <li>E <a href="drills/ps/richest_customer_wealth/">richest customer wealth</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/sign_of_product_of_array/">sign of product of array</a> :copyright:</li>
   <li>E <a href="drills/ps/arithmetic_progression_from_sequence/">arithmetic progression from sequence</a> :copyright:</li>
+  <li>E <a href="drills/ps/monotonic_array/">monotonic array</a> :copyright:</li>
 </ul>
 
 
