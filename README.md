@@ -30,6 +30,7 @@
   <li>E <a href="drills/ps/monotonic_array/">monotonic array</a> :copyright:</li>
   <li>E <a href="drills/ps/roman_to_int/">roman to int</a> :copyright:</li>
   <li>E <a href="drills/ps/baseball_game/">baseball game</a> :copyright:</li>
+  <li>E <a href="drills/ps/robot_return_to_origin/">robot return to origin</a> :copyright:</li>
 </ul>
 
 
