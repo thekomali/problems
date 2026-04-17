@@ -29,6 +29,7 @@
   <li>E <a href="drills/ps/arithmetic_progression_from_sequence/">arithmetic progression from sequence</a> :copyright:</li>
   <li>E <a href="drills/ps/monotonic_array/">monotonic array</a> :copyright:</li>
   <li>E <a href="drills/ps/roman_to_int/">roman to int</a> :copyright:</li>
+  <li>E <a href="drills/ps/baseball_game/">baseball game</a> :copyright:</li>
 </ul>
 
 
