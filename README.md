@@ -5,7 +5,7 @@
 <h6>:sauropod: <a href="https://docs.google.com/spreadsheets/d/12RhVSTslhoTmQBS2GdamtBuyE6NlCEwYNQcIRXHaVoQ/edit?usp=sharing">REFERENCE</a></h6>
 
 <h6>:rooster: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">:link:</a></h6>
-<ul>
+<ol>
   <li>E <a href="drills/ps/merge_strings_alternatively/">merge strings alternatively</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/find_the_difference/">find the difference</a> :copyright: :snake:</li>
   <li>E <a href="drills/ps/index_of_first_occurrence_of_string/">find the index of the first occurrence in a string</a> :copyright: :snake:</li>
@@ -33,7 +33,8 @@
   <li>E <a href="drills/ps/robot_return_to_origin/">robot return to origin</a> :copyright:</li>
   <li>E <a href="drills/ps/winner_of_tic_tac_toe/">winner of tic-tac-toe game</a> :copyright:</li>
   <li>M <a href="drills/ps/robot_bounded_in_circle/">robot bounded in circle</a> :copyright:</li>
-</ul>
+  <li>E <a href="drills/ps/main_diagonal_sum/">main diagonal sum</a> :copyright:</li>
+</ol>
 
 
 ---
