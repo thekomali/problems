@@ -34,6 +34,7 @@
   <li>E <a href="drills/ps/winner_of_tic_tac_toe/">winner of tic-tac-toe game</a> :copyright:</li>
   <li>M <a href="drills/ps/robot_bounded_in_circle/">robot bounded in circle</a> :copyright:</li>
   <li>E <a href="drills/ps/main_diagonal_sum/">main diagonal sum</a> :copyright:</li>
+  <li>M <a href="drills/ps/spiral_matrix/">spiral matrix</a> :copyright:</li>
 </ol>
 
 
