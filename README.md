@@ -15,6 +15,7 @@
   <li>LINKED LIST</li>
   <ol>
     <li>E <a href="drills/nc250/ll/linkedlist_cycle/">linkedlist cycle</a> :copyright:</li>
+    <li>M <a href="drills/nc250/ll/reorder_list/">reorder list</a> :copyright:</li>
   </ol>
 </ul>
 
