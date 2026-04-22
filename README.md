@@ -4,6 +4,24 @@
 
 <h6>:sauropod: <a href="https://docs.google.com/spreadsheets/d/12RhVSTslhoTmQBS2GdamtBuyE6NlCEwYNQcIRXHaVoQ/edit?usp=sharing">REFERENCE</a></h6>
 
+<h6>:flamingo: NC250 | <a href="https://neetcode.io/practice/practice/neetcode250">:link:</a></h6>
+<ul>
+  <li>ARRAY</li>
+
+  <li>TWO POINTER</li>
+
+  <li>SLIDING WINDOW</li>
+
+  <li>LINKED LIST</li>
+  <ol>
+    <li>E <a href="drills/nc250/ll/linkedlist_cycle/">linkedlist cycle</a> :copyright:</li>
+  </ol>
+</ul>
+
+
+---
+
+
 <h6>:rooster: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">:link:</a></h6>
 <ol>
   <li>E <a href="drills/ps/merge_strings_alternatively/">merge strings alternatively</a> :copyright: :snake:</li>
