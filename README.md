@@ -16,6 +16,7 @@
   <ol>
     <li>E <a href="drills/nc250/ll/linkedlist_cycle/">linkedlist cycle</a> :copyright:</li>
     <li>M <a href="drills/nc250/ll/reorder_list/">reorder list</a> :copyright:</li>
+    <li>M <a href="drills/nc250/ll/remove_nth_node_from_last/">remove n'th node from end of list</a> :copyright:</li>
   </ol>
 </ul>
 
