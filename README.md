@@ -55,6 +55,7 @@
   <li>M <a href="drills/ps/robot_bounded_in_circle/">robot bounded in circle</a> :copyright:</li>
   <li>E <a href="drills/ps/main_diagonal_sum/">main diagonal sum</a> :copyright:</li>
   <li>M <a href="drills/ps/spiral_matrix/">spiral matrix</a> :copyright:</li>
+  <li>M <a href="drills/ps/set_matrix_zero/">set matrix zero</a> :copyright:</li>
 </ol>
 
 
